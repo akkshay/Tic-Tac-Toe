@@ -13,6 +13,9 @@
 		1674C0901A4CD33300C95BCE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1674C08F1A4CD33300C95BCE /* Images.xcassets */; };
 		1674C0931A4CD33300C95BCE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1674C0911A4CD33300C95BCE /* LaunchScreen.xib */; };
 		1674C09F1A4CD33300C95BCE /* Tic_Tac_ToeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1674C09E1A4CD33300C95BCE /* Tic_Tac_ToeTests.swift */; };
+		1674C0A91A4CD35100C95BCE /* circle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1674C0A81A4CD35100C95BCE /* circle.jpg */; };
+		1674C0AC1A4CD35800C95BCE /* tic_tac_toe.gif in Resources */ = {isa = PBXBuildFile; fileRef = 1674C0AA1A4CD35800C95BCE /* tic_tac_toe.gif */; };
+		1674C0AD1A4CD35800C95BCE /* x.gif in Resources */ = {isa = PBXBuildFile; fileRef = 1674C0AB1A4CD35800C95BCE /* x.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +39,9 @@
 		1674C0981A4CD33300C95BCE /* Tic Tac ToeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tic Tac ToeTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1674C09D1A4CD33300C95BCE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1674C09E1A4CD33300C95BCE /* Tic_Tac_ToeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tic_Tac_ToeTests.swift; sourceTree = "<group>"; };
+		1674C0A81A4CD35100C95BCE /* circle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = circle.jpg; sourceTree = "<group>"; };
+		1674C0AA1A4CD35800C95BCE /* tic_tac_toe.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = tic_tac_toe.gif; sourceTree = "<group>"; };
+		1674C0AB1A4CD35800C95BCE /* x.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = x.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +86,9 @@
 				1674C0881A4CD33300C95BCE /* AppDelegate.swift */,
 				1674C08A1A4CD33300C95BCE /* ViewController.swift */,
 				1674C08C1A4CD33300C95BCE /* Main.storyboard */,
+				1674C0A81A4CD35100C95BCE /* circle.jpg */,
+				1674C0AA1A4CD35800C95BCE /* tic_tac_toe.gif */,
+				1674C0AB1A4CD35800C95BCE /* x.gif */,
 				1674C08F1A4CD33300C95BCE /* Images.xcassets */,
 				1674C0911A4CD33300C95BCE /* LaunchScreen.xib */,
 				1674C0861A4CD33300C95BCE /* Supporting Files */,
@@ -192,9 +201,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1674C0AC1A4CD35800C95BCE /* tic_tac_toe.gif in Resources */,
 				1674C08E1A4CD33300C95BCE /* Main.storyboard in Resources */,
 				1674C0931A4CD33300C95BCE /* LaunchScreen.xib in Resources */,
+				1674C0AD1A4CD35800C95BCE /* x.gif in Resources */,
 				1674C0901A4CD33300C95BCE /* Images.xcassets in Resources */,
+				1674C0A91A4CD35100C95BCE /* circle.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
